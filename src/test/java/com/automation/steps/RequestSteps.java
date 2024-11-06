@@ -73,4 +73,5 @@ public class RequestSteps {
         RestAssuredUtils.setBody(requestPojo);
         ConfigReader.setObject("request_pojo", requestPojo);
 
+    }
 }
